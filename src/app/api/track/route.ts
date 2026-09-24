@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { saveEvent, ServerEvent } from '@/lib/analytics-server';
+import { saveEvent } from '@/lib/analytics-server';
+import type { ServerEvent } from '@/types/analytics';
 
 export async function POST(req: NextRequest) {
   try {

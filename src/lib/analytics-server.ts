@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import { menuData } from './menu-data';
 import type { ServerEvent, InsightsData } from '@/types/analytics';
-export type { ServerEvent, InsightsData };
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const EVENTS_FILE = path.join(DATA_DIR, 'analytics-events.jsonl');
