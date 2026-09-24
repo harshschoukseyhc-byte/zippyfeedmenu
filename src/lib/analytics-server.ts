@@ -256,44 +256,6 @@ export function getEvents(days = 30): ServerEvent[] {
   }
 }
 
-export interface InsightsData {
-  timeWindowDays: number;
-  totalEvents: number;
-  uniqueSessions: number;
-  vegSwitchRate: number; // percentage
-  topDishes: {
-    rank: number;
-    itemId: string;
-    itemName: string;
-    sectionId: string;
-    price: number;
-    veg: boolean;
-    views: number;
-    reelIdea: string;
-  }[];
-  topSearches: {
-    rank: number;
-    query: string;
-    count: number;
-    resultCount: number;
-    isUnmetDemand: boolean;
-  }[];
-  moodBreakdown: {
-    id: string;
-    label: string;
-    count: number;
-    percentage: number;
-  }[];
-  trayStats: {
-    totalTrayLists: number;
-    averageTrayTotal: number;
-  };
-  conversions: {
-    whatsappTaps: number;
-    directionsTaps: number;
-    reviewTaps: number;
-  };
-}
 
 // Generate Instagram Reel idea hook based on dish attributes
 function getReelHook(name: string, veg: boolean): string {
