@@ -1,0 +1,2520 @@
+{
+  "restaurant": {
+    "name": "Zippyfeed Cafe & Fine Dine",
+    "outlet": "Outlet No. 120, Bhopal",
+    "tagline": "More Better Yummy",
+    "address": "Plot No. 72, Vidya Nagar Phase 2, Narmadapuram Road, Paras Hermitage Apartment, Danish Nagar, Bhopal 462026",
+    "landmark": "Aashima Mall ke saamne",
+    "phone": "9183485102",
+    "whatsapp": "919183485102",
+    "instagram": "https://www.instagram.com/zippyfeed.bhopal_120/",
+    "maps": "https://maps.app.goo.gl/db5n17yJNxpdf4xR9",
+    "googleReviewLink": "https://g.page/r/CYanbsrjDodXEAE/review",
+    "hours": "11:00 AM – 11:00 PM, all days",
+    "currency": "INR",
+    "notes": "Both veg and non-veg served. No alcohol — mocktails only.",
+    "lastUpdated": "2026-09-24",
+    "phoneDisplay": "+91 91834 85102",
+    "whatsappLink": "https://wa.me/919183485102"
+  },
+  "priceNote": "All prices in INR as printed on the physical menu dated Sept 2026. Taxes as applicable.",
+  "sections": [
+    {
+      "id": "combos",
+      "name": "Pocket Friendly Combos",
+      "nameHi": "कॉम्बो",
+      "highlight": true,
+      "badge": "₹299 se shuru",
+      "groups": [
+        {
+          "id": "combos-main",
+          "name": "Combos",
+          "note": "Dish + drink",
+          "items": [
+            {
+              "id": "cmb-1",
+              "name": "Aloo Tikki Burger (Double Patty) + Virgin Mojito",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "cmb-2",
+              "name": "Crispy Veggie Wrap + Dark Fantasy Mojito",
+              "veg": true,
+              "price": 379
+            },
+            {
+              "id": "cmb-3",
+              "name": "Veg Grill Sandwich + Cold Coffee",
+              "veg": true,
+              "price": 479
+            },
+            {
+              "id": "cmb-4",
+              "name": "Cheesy Margherita (10 inch) + Virgin Mojito",
+              "veg": true,
+              "price": 499
+            },
+            {
+              "id": "cmb-5",
+              "name": "Chicken Burger (Double Patty) + Virgin Mojito",
+              "veg": false,
+              "price": 359
+            },
+            {
+              "id": "cmb-6",
+              "name": "Crispy Chicken Wrap + Dark Fantasy Mojito",
+              "veg": false,
+              "price": 429
+            },
+            {
+              "id": "cmb-7",
+              "name": "Chicken Cheesy Lover (10 inch) + Virgin Mojito",
+              "veg": false,
+              "price": 599
+            }
+          ]
+        },
+        {
+          "id": "meals",
+          "name": "Pocket Friendly Meals",
+          "items": [
+            {
+              "id": "ml-1",
+              "name": "Bombay Veggie Burger (Double Patty) + French Fries + Virgin Mojito",
+              "veg": true,
+              "price": 319
+            },
+            {
+              "id": "ml-2",
+              "name": "Belgian Waffle + Cold Coffee",
+              "veg": true,
+              "price": 329
+            },
+            {
+              "id": "ml-3",
+              "name": "Crispy Wrap + French Fries + Cold Coffee",
+              "veg": true,
+              "price": 459
+            },
+            {
+              "id": "ml-4",
+              "name": "Cheesy Margherita (12 inch) + French Fries + Virgin Mojito",
+              "veg": true,
+              "price": 799
+            },
+            {
+              "id": "ml-5",
+              "name": "Chicken Burger (Double Patty) + French Fries + Dark Fantasy Mojito",
+              "veg": false,
+              "price": 489
+            },
+            {
+              "id": "ml-6",
+              "name": "Chicken Crispy Wrap + French Fries + Dark Fantasy Mojito",
+              "veg": false,
+              "price": 569
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "korean",
+      "name": "Korean Cuisine",
+      "nameHi": "कोरियन",
+      "highlight": true,
+      "badge": "Bhopal mein rare",
+      "groups": [
+        {
+          "id": "k-appetizers",
+          "name": "Korean Appetizers",
+          "items": [
+            {
+              "id": "ka-1",
+              "name": "Schezwan Veggie Finger Satay",
+              "veg": true,
+              "price": 429
+            },
+            {
+              "id": "ka-2",
+              "name": "K-Style Veggie Finger Chilli",
+              "veg": true,
+              "price": 429
+            },
+            {
+              "id": "ka-3",
+              "name": "K-Style Paneer Katsu",
+              "veg": true,
+              "price": 499
+            },
+            {
+              "id": "ka-4",
+              "name": "K-Style Paneer Katsu Satay",
+              "veg": true,
+              "price": 556
+            },
+            {
+              "id": "ka-5",
+              "name": "Paneer Gangjeong",
+              "veg": true,
+              "price": 699
+            },
+            {
+              "id": "ka-6",
+              "name": "Paneer Katsu Satay",
+              "veg": true,
+              "price": 799
+            },
+            {
+              "id": "ka-7",
+              "name": "Classic Fried Chicken Wings",
+              "veg": false,
+              "price": 359
+            },
+            {
+              "id": "ka-8",
+              "name": "Peri Peri Chicken Wings",
+              "veg": false,
+              "price": 399
+            },
+            {
+              "id": "ka-9",
+              "name": "Korean Chicken Wings",
+              "veg": false,
+              "price": 429
+            },
+            {
+              "id": "ka-10",
+              "name": "Creamy Chicken Wings",
+              "veg": false,
+              "price": 439
+            },
+            {
+              "id": "ka-11",
+              "name": "Hot Glazed Chicken Wings",
+              "veg": false,
+              "price": 459
+            },
+            {
+              "id": "ka-12",
+              "name": "Chicken Gangjeong",
+              "veg": false,
+              "price": 699
+            },
+            {
+              "id": "ka-13",
+              "name": "K-Style Glazed Chicken Meatballs",
+              "veg": false,
+              "price": 799
+            },
+            {
+              "id": "ka-14",
+              "name": "K-Style BBQ Chicken Meatballs",
+              "veg": false,
+              "price": 799
+            },
+            {
+              "id": "ka-15",
+              "name": "K-Style Chicken Satay",
+              "veg": false,
+              "price": 799
+            },
+            {
+              "id": "ka-16",
+              "name": "Chicken Katsu",
+              "veg": false,
+              "price": 799
+            },
+            {
+              "id": "ka-17",
+              "name": "Chicken Katsu Satay",
+              "veg": false,
+              "price": 899
+            }
+          ]
+        },
+        {
+          "id": "bibimbap",
+          "name": "Bibimbap Rice Bowl",
+          "items": [
+            {
+              "id": "bb-1",
+              "name": "Chilli Gogi Rice Bowl",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "bb-2",
+              "name": "Hot & Spicy Rice Bowl",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "bb-3",
+              "name": "Corn Coriander Rice Bowl",
+              "veg": true,
+              "price": 259
+            },
+            {
+              "id": "bb-4",
+              "name": "Kimchi Rice Bowl",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "bb-5",
+              "name": "Chicken Chilli Gogi Rice Bowl",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "bb-6",
+              "name": "Chicken Hot & Spicy Rice Bowl",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "bb-7",
+              "name": "Chicken Corn Coriander Rice Bowl",
+              "veg": false,
+              "price": 349
+            },
+            {
+              "id": "bb-8",
+              "name": "Chicken Kimchi Rice Bowl",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "k-ramen",
+          "name": "K Ramen Bowl",
+          "items": [
+            {
+              "id": "kr-1",
+              "name": "Chilli Gogi Ramen Bowl",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "kr-2",
+              "name": "Hot & Spicy Ramen Bowl",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "kr-3",
+              "name": "Corn Coriander Ramen Bowl",
+              "veg": true,
+              "price": 329
+            },
+            {
+              "id": "kr-4",
+              "name": "Kimchi Ramen Bowl",
+              "veg": true,
+              "price": 329
+            },
+            {
+              "id": "kr-5",
+              "name": "Chicken Chilli Gogi Ramen Bowl",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "kr-6",
+              "name": "Chicken Hot & Spicy Ramen Bowl",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "kr-7",
+              "name": "Chicken Corn Coriander Ramen Bowl",
+              "veg": false,
+              "price": 349
+            },
+            {
+              "id": "kr-8",
+              "name": "Chicken Kimchi Ramen Bowl",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "thukpa",
+          "name": "Asian Special Thukpa",
+          "note": "Soupy ramen & momo",
+          "items": [
+            {
+              "id": "th-1",
+              "name": "Mix Vegetables Thukpa",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "th-2",
+              "name": "Sweet Corn Thukpa",
+              "veg": true,
+              "price": 189
+            },
+            {
+              "id": "th-3",
+              "name": "Paneer Hot & Spicy Thukpa",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "th-4",
+              "name": "Chicken Thukpa",
+              "veg": false,
+              "price": 249
+            },
+            {
+              "id": "th-5",
+              "name": "Chicken Hot & Spicy Thukpa",
+              "veg": false,
+              "price": 289
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "momo",
+      "name": "Momo",
+      "nameHi": "मोमो",
+      "groups": [
+        {
+          "id": "momo-all",
+          "name": "Momo",
+          "variantLabels": [
+            "Steam",
+            "Fried"
+          ],
+          "items": [
+            {
+              "id": "mo-1",
+              "name": "Veg Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 249,
+                "Fried": 279
+              }
+            },
+            {
+              "id": "mo-2",
+              "name": "Veg Peri Peri Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 299,
+                "Fried": 329
+              }
+            },
+            {
+              "id": "mo-3",
+              "name": "Veg Schezwan Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 299,
+                "Fried": 329
+              }
+            },
+            {
+              "id": "mo-4",
+              "name": "Veg Cheesy Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 299,
+                "Fried": 329
+              }
+            },
+            {
+              "id": "mo-5",
+              "name": "Korean Veggie Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 329,
+                "Fried": 359
+              }
+            },
+            {
+              "id": "mo-6",
+              "name": "Paneer Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 299,
+                "Fried": 329
+              }
+            },
+            {
+              "id": "mo-7",
+              "name": "Paneer Peri Peri Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 329,
+                "Fried": 359
+              }
+            },
+            {
+              "id": "mo-8",
+              "name": "Paneer Schezwan Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 329,
+                "Fried": 359
+              }
+            },
+            {
+              "id": "mo-9",
+              "name": "Paneer Makhani Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 329,
+                "Fried": 359
+              }
+            },
+            {
+              "id": "mo-10",
+              "name": "Paneer Cheesy Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 359,
+                "Fried": 389
+              }
+            },
+            {
+              "id": "mo-11",
+              "name": "Korean Paneer Momo",
+              "veg": true,
+              "variants": {
+                "Steam": 359,
+                "Fried": 389
+              }
+            },
+            {
+              "id": "mo-12",
+              "name": "Chicken Momo",
+              "veg": false,
+              "variants": {
+                "Steam": 349,
+                "Fried": 359
+              }
+            },
+            {
+              "id": "mo-13",
+              "name": "Chicken Peri Peri Momo",
+              "veg": false,
+              "variants": {
+                "Steam": 379,
+                "Fried": 389
+              }
+            },
+            {
+              "id": "mo-14",
+              "name": "Chicken Schezwan Momo",
+              "veg": false,
+              "variants": {
+                "Steam": 399,
+                "Fried": 409
+              }
+            },
+            {
+              "id": "mo-15",
+              "name": "Chicken Cheesy Momo",
+              "veg": false,
+              "variants": {
+                "Steam": 399,
+                "Fried": 409
+              }
+            },
+            {
+              "id": "mo-16",
+              "name": "Korean Chicken Momo",
+              "veg": false,
+              "variants": {
+                "Steam": 399,
+                "Fried": 409
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name": "Neapolitan Pizza",
+      "nameHi": "पिज़्ज़ा",
+      "addOns": [
+        {
+          "name": "Cheese Burst",
+          "prices": {
+            "10 inch": 149,
+            "12 inch": 199
+          }
+        }
+      ],
+      "groups": [
+        {
+          "id": "pizza-veg",
+          "name": "Pizza — Veg",
+          "variantLabels": [
+            "10 inch",
+            "12 inch"
+          ],
+          "items": [
+            {
+              "id": "pv-1",
+              "name": "Cheesy Margherita Pizza",
+              "veg": true,
+              "desc": "Lots of mozzarella cheese, fresh basil leaves",
+              "variants": {
+                "10 inch": 399,
+                "12 inch": 529
+              }
+            },
+            {
+              "id": "pv-2",
+              "name": "Primavera Pizza",
+              "veg": true,
+              "desc": "Green pepper, onion, broccoli, sweet corn & black olives",
+              "variants": {
+                "10 inch": 449,
+                "12 inch": 559
+              }
+            },
+            {
+              "id": "pv-3",
+              "name": "Greek Delight Pizza",
+              "veg": true,
+              "desc": "Onion, yellow pepper, cherry tomatoes, crumbled cottage cheese & black olives",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-4",
+              "name": "Yummy Dummy Pizza",
+              "veg": true,
+              "desc": "Onion, green pepper, black olives, baby corn slices, chipotle sauce",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-5",
+              "name": "Funghi Pizza",
+              "veg": true,
+              "desc": "Sliced cherry tomatoes, black olives, mushroom, onion, green pepper",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-6",
+              "name": "Mediterranean Pizza",
+              "veg": true,
+              "desc": "Onion, black olives, zucchini, green pepper, jalapeno & cottage cheese cubes",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-7",
+              "name": "Mexican Delight Pizza",
+              "veg": true,
+              "desc": "Cherry tomatoes, green pepper, sweet corn, jalapeno, black olives with spicy sauce",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-8",
+              "name": "American Heat Pizza",
+              "veg": true,
+              "desc": "Green pepper, onion, baby corn, jalapeno & red paprika",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-9",
+              "name": "Farmhouse Pizza",
+              "veg": true,
+              "desc": "Onion, green pepper, red pepper, yellow pepper, cherry tomato, sweet corn, black olives, peri peri seasoning",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 599
+              }
+            },
+            {
+              "id": "pv-10",
+              "name": "Peri Peri Paneer Pizza",
+              "veg": true,
+              "desc": "Onion, green pepper, red paprika, peri peri marinated paneer cubes",
+              "variants": {
+                "10 inch": 549,
+                "12 inch": 679
+              }
+            },
+            {
+              "id": "pv-11",
+              "name": "Barbeque Paneer Pizza",
+              "veg": true,
+              "desc": "Red pepper, onion, paneer, red paprika topped with BBQ sauce",
+              "variants": {
+                "10 inch": 549,
+                "12 inch": 689
+              }
+            },
+            {
+              "id": "pv-12",
+              "name": "Paneer Makhani Pizza",
+              "veg": true,
+              "desc": "Green pepper, onion, olives, makhani paneer cubes",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            }
+          ]
+        },
+        {
+          "id": "pizza-nonveg",
+          "name": "Pizza — Non Veg",
+          "variantLabels": [
+            "10 inch",
+            "12 inch"
+          ],
+          "items": [
+            {
+              "id": "pn-1",
+              "name": "Cheesy Chicken Lover Pizza",
+              "veg": false,
+              "desc": "Lots of mozzarella cheese, classic chicken, fresh basil leaves",
+              "variants": {
+                "10 inch": 499,
+                "12 inch": 629
+              }
+            },
+            {
+              "id": "pn-2",
+              "name": "Chicken Primavera Pizza",
+              "veg": false,
+              "desc": "Green pepper, onion, broccoli, classic chicken, sweet corn & black olives",
+              "variants": {
+                "10 inch": 549,
+                "12 inch": 659
+              }
+            },
+            {
+              "id": "pn-3",
+              "name": "White Chicken Delight Pizza",
+              "veg": false,
+              "desc": "White alfredo sauce, onion, yellow pepper, cherry tomatoes, crumbled classic chicken & black olives",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            },
+            {
+              "id": "pn-4",
+              "name": "Yummy Dummy Chicken Pizza",
+              "veg": false,
+              "desc": "Onion, green pepper, black olives, baby corn slices, chicken chipotle sauce",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            },
+            {
+              "id": "pn-5",
+              "name": "Funghi Chicken Delight Pizza",
+              "veg": false,
+              "desc": "Sliced cherry tomatoes, black olives, mushroom, chicken, onion, green pepper",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            },
+            {
+              "id": "pn-6",
+              "name": "Mediterranean Chicken Pizza",
+              "veg": false,
+              "desc": "Onion, black olives, zucchini, green pepper, jalapeno & chicken cubes",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            },
+            {
+              "id": "pn-7",
+              "name": "Mexican Delight Chicken Pizza",
+              "veg": false,
+              "desc": "Cherry tomatoes, green pepper, sweet corn, jalapeno, black olives with chicken spicy sauce",
+              "variants": {
+                "10 inch": 599,
+                "12 inch": 699
+              }
+            },
+            {
+              "id": "pn-8",
+              "name": "American Heat Chicken Pizza",
+              "veg": false,
+              "desc": "Green pepper, onion, baby corn, jalapeno, tandoori chicken & red paprika",
+              "variants": {
+                "10 inch": 649,
+                "12 inch": 769
+              }
+            },
+            {
+              "id": "pn-9",
+              "name": "Chicken Peri Peri Pizza",
+              "veg": false,
+              "desc": "Onion, green pepper, red paprika, peri peri marinated chicken cubes",
+              "variants": {
+                "10 inch": 699,
+                "12 inch": 799
+              }
+            },
+            {
+              "id": "pn-10",
+              "name": "Barbeque Chicken Pizza",
+              "veg": false,
+              "desc": "Red pepper, onion, classic chicken, red paprika topped with BBQ sauce",
+              "variants": {
+                "10 inch": 699,
+                "12 inch": 799
+              }
+            },
+            {
+              "id": "pn-11",
+              "name": "Makhani Chicken Pizza",
+              "veg": false,
+              "desc": "Green pepper, onion, olives, makhani chicken cubes",
+              "variants": {
+                "10 inch": 699,
+                "12 inch": 799
+              }
+            },
+            {
+              "id": "pn-12",
+              "name": "Chicken Supreme Pizza",
+              "veg": false,
+              "desc": "Onion, green pepper, red pepper, yellow pepper, cherry tomato, sweet corn, classic chicken, tandoori chicken, black olives, peri peri seasoning",
+              "variants": {
+                "10 inch": 799,
+                "12 inch": 899
+              }
+            },
+            {
+              "id": "pn-13",
+              "name": "Chicken Tikka Special Pizza",
+              "veg": false,
+              "desc": "Onion, green pepper, red paprika, yellow pepper, jalapeno, mushroom, black olives, two flavours of chicken cubes",
+              "variants": {
+                "10 inch": 799,
+                "12 inch": 949
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "continental",
+      "name": "Continental & Western",
+      "nameHi": "बर्गर & रैप",
+      "groups": [
+        {
+          "id": "burger",
+          "name": "Burger",
+          "note": "Double patty, with French fries",
+          "addOns": [
+            {
+              "name": "Cheese",
+              "price": 20
+            }
+          ],
+          "items": [
+            {
+              "id": "bg-1",
+              "name": "Double Aloo Tikki Burger",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "bg-2",
+              "name": "Bombay Veggie Burger",
+              "veg": true,
+              "price": 219
+            },
+            {
+              "id": "bg-3",
+              "name": "Veggie Spicy Burger",
+              "veg": true,
+              "price": 239
+            },
+            {
+              "id": "bg-4",
+              "name": "Veggie Cheese Burst Burger",
+              "veg": true,
+              "price": 259
+            },
+            {
+              "id": "bg-5",
+              "name": "Double Paneer Tikka Burger",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "bg-6",
+              "name": "Cheesy Tower Burger",
+              "veg": true,
+              "price": 449
+            },
+            {
+              "id": "bg-7",
+              "name": "Bombay Chicken Burger",
+              "veg": false,
+              "price": 259
+            },
+            {
+              "id": "bg-8",
+              "name": "Chicken Tandoori Burger",
+              "veg": false,
+              "price": 279
+            },
+            {
+              "id": "bg-9",
+              "name": "Chicken Tikka Burger",
+              "veg": false,
+              "price": 289
+            },
+            {
+              "id": "bg-10",
+              "name": "Chicken Cheese Burst Burger",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "bg-11",
+              "name": "Chicken Cheesy Tower Burger",
+              "veg": false,
+              "price": 499
+            }
+          ]
+        },
+        {
+          "id": "wrap",
+          "name": "Wrap & Roll",
+          "note": "With French fries",
+          "addOns": [
+            {
+              "name": "Cheese",
+              "price": 30
+            }
+          ],
+          "items": [
+            {
+              "id": "wr-1",
+              "name": "Crispy Veggie Wrap",
+              "veg": true,
+              "price": 279
+            },
+            {
+              "id": "wr-2",
+              "name": "Veggie Peri Peri Wrap",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "wr-3",
+              "name": "Paneer Tikka Wrap",
+              "veg": true,
+              "price": 319
+            },
+            {
+              "id": "wr-4",
+              "name": "Crispy Chicken Wrap",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "wr-5",
+              "name": "Chicken Peri Peri Wrap",
+              "veg": false,
+              "price": 349
+            },
+            {
+              "id": "wr-6",
+              "name": "Chicken Tikka Wrap",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "sandwich",
+          "name": "Grilled Sandwich & Chips",
+          "addOns": [
+            {
+              "name": "Cheese",
+              "price": 60
+            },
+            {
+              "name": "Chicken",
+              "price": 60
+            }
+          ],
+          "items": [
+            {
+              "id": "sw-1",
+              "name": "Veg Grill Sandwich",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "sw-2",
+              "name": "Veg Club Sandwich",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "sw-3",
+              "name": "Chicken Grill Sandwich",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "sw-4",
+              "name": "Chicken Club Sandwich",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "fries",
+          "name": "French Fries",
+          "items": [
+            {
+              "id": "fr-1",
+              "name": "Crispy Salted Fries",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "fr-2",
+              "name": "Cheesy Fries",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "fr-3",
+              "name": "Peri Peri Fries",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "fr-4",
+              "name": "Extra Crispy Schezwan Fries",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "fr-5",
+              "name": "Extra Crispy Korean Fries",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "fr-6",
+              "name": "Chilli Potato Fries",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "fr-7",
+              "name": "Chicken Fries",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "fr-8",
+              "name": "Crispy Chicken & Schezwan Fries",
+              "veg": false,
+              "price": 349
+            },
+            {
+              "id": "fr-9",
+              "name": "Crispy Chicken & Korean Fries",
+              "veg": false,
+              "price": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "italian",
+      "name": "Italian",
+      "groups": [
+        {
+          "id": "pasta",
+          "name": "Pasta",
+          "items": [
+            {
+              "id": "pa-1",
+              "name": "Cheesy Alfredo Pasta",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "pa-2",
+              "name": "Tangy Neapolitan Pasta",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "pa-3",
+              "name": "Hot Arrabbiata Pasta",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "pa-4",
+              "name": "Pink Sauce Pasta",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "pa-5",
+              "name": "Pesto Sauce Pasta",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "pa-6",
+              "name": "Chicken Cheesy Alfredo Pasta",
+              "veg": false,
+              "price": 379
+            },
+            {
+              "id": "pa-7",
+              "name": "Chicken Tangy Neapolitan Pasta",
+              "veg": false,
+              "price": 379
+            },
+            {
+              "id": "pa-8",
+              "name": "Chicken Hot Arrabbiata Pasta",
+              "veg": false,
+              "price": 399
+            },
+            {
+              "id": "pa-9",
+              "name": "Chicken Pink Sauce Pasta",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "garlic-bread",
+          "name": "Garlic Bread",
+          "items": [
+            {
+              "id": "gb-1",
+              "name": "Corn Cheesy Garlic Bread",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "gb-2",
+              "name": "Chilli Cheesy Garlic Bread",
+              "veg": true,
+              "price": 209
+            },
+            {
+              "id": "gb-3",
+              "name": "Turkish Cheesy Garlic Bread",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "gb-4",
+              "name": "Stuffed Garlic Bread",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "gb-5",
+              "name": "Cheesy Tangy Bruschetta",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "gb-6",
+              "name": "Chicken Cheesy Garlic Bread",
+              "veg": false,
+              "price": 219
+            },
+            {
+              "id": "gb-7",
+              "name": "Chicken Chilli Garlic Bread",
+              "veg": false,
+              "price": 219
+            },
+            {
+              "id": "gb-8",
+              "name": "Turkish Chicken Garlic Bread",
+              "veg": false,
+              "price": 249
+            },
+            {
+              "id": "gb-9",
+              "name": "Stuffed Chicken Garlic Bread",
+              "veg": false,
+              "price": 249
+            },
+            {
+              "id": "gb-10",
+              "name": "Cheesy Chicken Tangy Bruschetta",
+              "veg": false,
+              "price": 249
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indian",
+      "name": "Indian Cuisine",
+      "nameHi": "इंडियन",
+      "groups": [
+        {
+          "id": "tandoori",
+          "name": "Tandoori Starters",
+          "items": [
+            {
+              "id": "td-1",
+              "name": "Achari Paneer Tikka",
+              "veg": true,
+              "price": 595
+            },
+            {
+              "id": "td-2",
+              "name": "Malai Paneer Tikka",
+              "veg": true,
+              "price": 595
+            },
+            {
+              "id": "td-3",
+              "name": "Pahadi Paneer Tikka",
+              "veg": true,
+              "price": 595
+            },
+            {
+              "id": "td-4",
+              "name": "Chicken Tikka",
+              "veg": false,
+              "price": 625
+            },
+            {
+              "id": "td-5",
+              "name": "Pahadi Chicken Tikka",
+              "veg": false,
+              "price": 625
+            },
+            {
+              "id": "td-6",
+              "name": "Lasooni Chicken Tikka",
+              "veg": false,
+              "price": 625
+            },
+            {
+              "id": "td-7",
+              "name": "Chicken Seekh",
+              "veg": false,
+              "price": 625
+            },
+            {
+              "id": "td-8",
+              "name": "Tangdi Kebab",
+              "veg": false,
+              "price": 875
+            },
+            {
+              "id": "td-9",
+              "name": "Ajwaini Tikka Fish",
+              "veg": false,
+              "price": 825
+            },
+            {
+              "id": "td-10",
+              "name": "Tandoori Pomfret",
+              "veg": false,
+              "price": 1095
+            }
+          ]
+        },
+        {
+          "id": "main-veg",
+          "name": "Main Course — Veg",
+          "items": [
+            {
+              "id": "mv-1",
+              "name": "Aloo Gobhi",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "mv-2",
+              "name": "Aloo Dum Banarsi",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "mv-3",
+              "name": "Mix Veg (Dry/Gravy)",
+              "veg": true,
+              "price": 269
+            },
+            {
+              "id": "mv-4",
+              "name": "Veg Kofta",
+              "veg": true,
+              "price": 329
+            },
+            {
+              "id": "mv-5",
+              "name": "Veg Jalfrezi",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-6",
+              "name": "Kaju Curry",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-7",
+              "name": "Mushroom Masala",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "mv-8",
+              "name": "Mushroom Matar",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "mv-9",
+              "name": "Mushroom Do Piyaza",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "mv-10",
+              "name": "Mushroom Butter Masala",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-11",
+              "name": "Kadhai Mushroom",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-12",
+              "name": "Paneer Bhurji",
+              "veg": true,
+              "price": 319
+            },
+            {
+              "id": "mv-13",
+              "name": "Matar Paneer",
+              "veg": true,
+              "price": 349
+            },
+            {
+              "id": "mv-14",
+              "name": "Paneer Tikka Masala",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-15",
+              "name": "Shahi Paneer (White or Red)",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-16",
+              "name": "Palak Paneer (Seasonal)",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-17",
+              "name": "Paneer Do Piyaza",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-18",
+              "name": "Paneer Butter Masala",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-19",
+              "name": "Kadhai Paneer",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-20",
+              "name": "Handi Paneer",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "mv-21",
+              "name": "Paneer Lababdar",
+              "veg": true,
+              "price": 399
+            }
+          ]
+        },
+        {
+          "id": "main-nonveg",
+          "name": "Main Course — Non Veg",
+          "items": [
+            {
+              "id": "mn-1",
+              "name": "Egg Curry",
+              "veg": false,
+              "price": 269
+            },
+            {
+              "id": "mn-2",
+              "name": "Egg Butter Masala",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "mn-3",
+              "name": "Chicken Curry",
+              "veg": false,
+              "price": 389
+            },
+            {
+              "id": "mn-4",
+              "name": "Butter Chicken",
+              "veg": false,
+              "price": 429
+            },
+            {
+              "id": "mn-5",
+              "name": "Chicken Tikka Masala",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-6",
+              "name": "Chicken Do Piyaza",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-7",
+              "name": "Chicken Masala",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-8",
+              "name": "Chicken Rara",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-9",
+              "name": "Chicken Kali Mirch",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-10",
+              "name": "Palak Chicken",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "mn-11",
+              "name": "Kadhai Chicken",
+              "veg": false,
+              "price": 479
+            },
+            {
+              "id": "mn-12",
+              "name": "Handi Chicken",
+              "veg": false,
+              "price": 479
+            },
+            {
+              "id": "mn-13",
+              "name": "Afghani Chicken",
+              "veg": false,
+              "price": 479
+            },
+            {
+              "id": "mn-14",
+              "name": "Chicken Hyderabadi",
+              "veg": false,
+              "price": 489
+            },
+            {
+              "id": "mn-15",
+              "name": "Schezwan Murgh",
+              "veg": false,
+              "price": 999
+            },
+            {
+              "id": "mn-16",
+              "name": "Murgh Musallam",
+              "veg": false,
+              "desc": "Pre-order 1 hr",
+              "price": 999
+            },
+            {
+              "id": "mn-17",
+              "name": "Mutton Masala",
+              "veg": false,
+              "price": 549
+            },
+            {
+              "id": "mn-18",
+              "name": "Mutton Rogan Josh",
+              "veg": false,
+              "price": 579
+            },
+            {
+              "id": "mn-19",
+              "name": "Mutton Handi",
+              "veg": false,
+              "price": 579
+            },
+            {
+              "id": "mn-20",
+              "name": "Laal Maas",
+              "veg": false,
+              "price": 649
+            },
+            {
+              "id": "mn-21",
+              "name": "Mutton Nehari",
+              "veg": false,
+              "price": 649
+            }
+          ]
+        },
+        {
+          "id": "dal",
+          "name": "Dal Special",
+          "items": [
+            {
+              "id": "dl-1",
+              "name": "Dal Fry",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "dl-2",
+              "name": "Dal Makhani",
+              "veg": true,
+              "price": 189
+            }
+          ]
+        },
+        {
+          "id": "bread",
+          "name": "Indian Bread",
+          "items": [
+            {
+              "id": "br-1",
+              "name": "Tandoori Roti",
+              "veg": true,
+              "price": 29
+            },
+            {
+              "id": "br-2",
+              "name": "Tandoori Roti Butter",
+              "veg": true,
+              "price": 39
+            },
+            {
+              "id": "br-3",
+              "name": "Missi Roti",
+              "veg": true,
+              "price": 49
+            },
+            {
+              "id": "br-4",
+              "name": "Laccha Paratha",
+              "veg": true,
+              "price": 49
+            },
+            {
+              "id": "br-5",
+              "name": "Plain Naan",
+              "veg": true,
+              "price": 59
+            },
+            {
+              "id": "br-6",
+              "name": "Malabar Paratha",
+              "veg": true,
+              "price": 69
+            },
+            {
+              "id": "br-7",
+              "name": "Butter Naan",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "br-8",
+              "name": "Garlic Naan",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "br-9",
+              "name": "Stuffed Naan",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "br-10",
+              "name": "Onion Kulcha",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "br-11",
+              "name": "Paneer Stuffed Kulcha",
+              "veg": true,
+              "price": 89
+            }
+          ]
+        },
+        {
+          "id": "rice",
+          "name": "Indian Rice",
+          "items": [
+            {
+              "id": "ri-1",
+              "name": "Plain Rice",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "ri-2",
+              "name": "Jeera Rice",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "ri-3",
+              "name": "Veg Pulao",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "ri-4",
+              "name": "Matar Pulao",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "ri-5",
+              "name": "Paneer Pulao",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "ri-6",
+              "name": "Veg Biryani",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "ri-7",
+              "name": "Chicken Biryani",
+              "veg": false,
+              "price": 499
+            },
+            {
+              "id": "ri-8",
+              "name": "Mutton Biryani",
+              "veg": false,
+              "price": 699
+            }
+          ]
+        },
+        {
+          "id": "raita-papad",
+          "name": "Raita & Papad",
+          "items": [
+            {
+              "id": "rp-1",
+              "name": "Onion Raita",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "rp-2",
+              "name": "Cucumber Raita",
+              "veg": true,
+              "price": 89
+            },
+            {
+              "id": "rp-3",
+              "name": "Boondi Raita",
+              "veg": true,
+              "price": 89
+            },
+            {
+              "id": "rp-4",
+              "name": "Pineapple Raita",
+              "veg": true,
+              "price": 99
+            },
+            {
+              "id": "rp-5",
+              "name": "Mixed Raita",
+              "veg": true,
+              "price": 99
+            },
+            {
+              "id": "rp-6",
+              "name": "Dry Papad",
+              "veg": true,
+              "price": 49
+            },
+            {
+              "id": "rp-7",
+              "name": "Fry Papad",
+              "veg": true,
+              "price": 59
+            },
+            {
+              "id": "rp-8",
+              "name": "Masala Papad",
+              "veg": true,
+              "price": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-indian",
+      "name": "South Indian Cuisine",
+      "nameHi": "साउथ इंडियन",
+      "groups": [
+        {
+          "id": "idli-vada",
+          "name": "Idli & Vada",
+          "items": [
+            {
+              "id": "iv-1",
+              "name": "Idli Sambar",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "iv-2",
+              "name": "Idli Chilli",
+              "veg": true,
+              "price": 139
+            },
+            {
+              "id": "iv-3",
+              "name": "Vada Sambar",
+              "veg": true,
+              "price": 139
+            },
+            {
+              "id": "iv-4",
+              "name": "Idli Vada Sambar",
+              "veg": true,
+              "price": 139
+            },
+            {
+              "id": "iv-5",
+              "name": "Podi Idli",
+              "veg": true,
+              "price": 169
+            },
+            {
+              "id": "iv-6",
+              "name": "Tadka Buttermilk Vada",
+              "veg": true,
+              "price": 169
+            },
+            {
+              "id": "iv-7",
+              "name": "Idli Fry",
+              "veg": true,
+              "price": 189
+            }
+          ]
+        },
+        {
+          "id": "dosa",
+          "name": "Dosa",
+          "items": [
+            {
+              "id": "ds-1",
+              "name": "Plain Dosa",
+              "veg": true,
+              "price": 139
+            },
+            {
+              "id": "ds-2",
+              "name": "Masala Dosa",
+              "veg": true,
+              "price": 189
+            },
+            {
+              "id": "ds-3",
+              "name": "Butter Dosa",
+              "veg": true,
+              "price": 189
+            },
+            {
+              "id": "ds-4",
+              "name": "Ghee Dosa",
+              "veg": true,
+              "price": 189
+            },
+            {
+              "id": "ds-5",
+              "name": "Butter Masala Dosa",
+              "veg": true,
+              "price": 209
+            },
+            {
+              "id": "ds-6",
+              "name": "Schezwan Masala Dosa",
+              "veg": true,
+              "price": 209
+            },
+            {
+              "id": "ds-7",
+              "name": "Cheese Masala Dosa",
+              "veg": true,
+              "price": 219
+            },
+            {
+              "id": "ds-8",
+              "name": "Mysore Masala Dosa",
+              "veg": true,
+              "price": 239
+            },
+            {
+              "id": "ds-9",
+              "name": "Cheese Schezwan Masala Dosa",
+              "veg": true,
+              "price": 269
+            },
+            {
+              "id": "ds-10",
+              "name": "Mysore Cheesy Masala Dosa",
+              "veg": true,
+              "price": 289
+            },
+            {
+              "id": "ds-11",
+              "name": "Benne Dosa",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "ds-12",
+              "name": "Benne Masala Dosa",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "ds-13",
+              "name": "Paneer Chilli Dosa",
+              "veg": true,
+              "price": 289
+            },
+            {
+              "id": "ds-14",
+              "name": "Paneer Chilli Cheese Dosa",
+              "veg": true,
+              "price": 319
+            },
+            {
+              "id": "ds-15",
+              "name": "Paneer Makhani Dosa",
+              "veg": true,
+              "price": 339
+            },
+            {
+              "id": "ds-16",
+              "name": "Mushroom Makhani Dosa",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "ds-17",
+              "name": "Mushroom Masala Dosa",
+              "veg": true,
+              "price": 319
+            },
+            {
+              "id": "ds-18",
+              "name": "Egg Schezwan Dosa",
+              "veg": false,
+              "price": 249
+            },
+            {
+              "id": "ds-19",
+              "name": "Korean Egg Crepe Dosa",
+              "veg": false,
+              "price": 269
+            },
+            {
+              "id": "ds-20",
+              "name": "Korean Chicken Crepe Dosa",
+              "veg": false,
+              "price": 299
+            }
+          ]
+        },
+        {
+          "id": "uttapam",
+          "name": "Uttapam",
+          "note": "2 pcs",
+          "items": [
+            {
+              "id": "ut-1",
+              "name": "Plain Uttapam",
+              "veg": true,
+              "price": 139
+            },
+            {
+              "id": "ut-2",
+              "name": "Onion Uttapam",
+              "veg": true,
+              "price": 159
+            },
+            {
+              "id": "ut-3",
+              "name": "Onion Tomato Uttapam",
+              "veg": true,
+              "price": 169
+            },
+            {
+              "id": "ut-4",
+              "name": "Cheese Uttapam",
+              "veg": true,
+              "price": 209
+            },
+            {
+              "id": "ut-5",
+              "name": "Mix Veg Uttapam",
+              "veg": true,
+              "price": 219
+            },
+            {
+              "id": "ut-6",
+              "name": "Cheese Mix Veg Uttapam",
+              "veg": true,
+              "price": 239
+            },
+            {
+              "id": "ut-7",
+              "name": "Ghee Podi Uttapam",
+              "veg": true,
+              "price": 239
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chinese",
+      "name": "Chinese Cuisine",
+      "nameHi": "चाइनीज़",
+      "addOns": [
+        {
+          "name": "Schezwan",
+          "price": 30
+        }
+      ],
+      "groups": [
+        {
+          "id": "ch-starter",
+          "name": "Chinese Starter",
+          "items": [
+            {
+              "id": "cs-1",
+              "name": "Veg Crispy",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "cs-2",
+              "name": "Veg Manchurian (Dry/Gravy)",
+              "veg": true,
+              "price": 329
+            },
+            {
+              "id": "cs-3",
+              "name": "Mushroom Salt & Pepper",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "cs-4",
+              "name": "Mushroom Chilli (Dry/Gravy)",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "cs-5",
+              "name": "Paneer Chilli (Dry/Gravy)",
+              "veg": true,
+              "price": 399
+            },
+            {
+              "id": "cs-6",
+              "name": "Chicken Crispy",
+              "veg": false,
+              "price": 399
+            },
+            {
+              "id": "cs-7",
+              "name": "Chicken 65",
+              "veg": false,
+              "price": 399
+            },
+            {
+              "id": "cs-8",
+              "name": "Chicken Chilli (Dry/Gravy)",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "cs-9",
+              "name": "Chicken Lollipop (Dry/Gravy)",
+              "veg": false,
+              "price": 449
+            },
+            {
+              "id": "cs-10",
+              "name": "Chicken Manchurian (Dry/Gravy)",
+              "veg": false,
+              "price": 499
+            }
+          ]
+        },
+        {
+          "id": "ch-soup",
+          "name": "Chinese Soup",
+          "items": [
+            {
+              "id": "cp-1",
+              "name": "Hot & Sour Soup",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "cp-2",
+              "name": "Lemon Corn Coriander Soup",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "cp-3",
+              "name": "Manchow Soup",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "cp-4",
+              "name": "Veg Clear Soup",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "cp-5",
+              "name": "Cream of Mushroom Soup",
+              "veg": true,
+              "price": 129
+            },
+            {
+              "id": "cp-6",
+              "name": "Chicken Manchow Soup",
+              "veg": false,
+              "price": 149
+            },
+            {
+              "id": "cp-7",
+              "name": "Chicken Shorba",
+              "veg": false,
+              "price": 179
+            },
+            {
+              "id": "cp-8",
+              "name": "Chicken & Corn Shorba",
+              "veg": false,
+              "price": 179
+            },
+            {
+              "id": "cp-9",
+              "name": "Creamy Chicken Soup",
+              "veg": false,
+              "price": 179
+            }
+          ]
+        },
+        {
+          "id": "ch-noodles",
+          "name": "Chinese Noodles",
+          "note": "With gravy",
+          "items": [
+            {
+              "id": "cn-1",
+              "name": "Veg Hakka Noodles",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "cn-2",
+              "name": "Veg Schezwan Noodles",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "cn-3",
+              "name": "Veg Hong Kong Noodles",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cn-4",
+              "name": "Veg Manchurian Noodles",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cn-5",
+              "name": "Chicken Hakka Noodles",
+              "veg": false,
+              "price": 259
+            },
+            {
+              "id": "cn-6",
+              "name": "Chicken Schezwan Noodles",
+              "veg": false,
+              "price": 279
+            },
+            {
+              "id": "cn-7",
+              "name": "Chicken Hong Kong Noodles",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "cn-8",
+              "name": "Chicken Manchurian Noodles",
+              "veg": false,
+              "price": 349
+            }
+          ]
+        },
+        {
+          "id": "ch-rice",
+          "name": "Chinese Fried Rice",
+          "items": [
+            {
+              "id": "cr-1",
+              "name": "Veg Fried Rice",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "cr-2",
+              "name": "Veg Hong Kong Rice",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cr-3",
+              "name": "Veg Combination Rice",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cr-4",
+              "name": "Veg Manchurian Fried Rice (with gravy)",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cr-5",
+              "name": "Veg Schezwan Rice",
+              "veg": true,
+              "price": 299
+            },
+            {
+              "id": "cr-6",
+              "name": "Classic Chicken Fried Rice",
+              "veg": false,
+              "price": 279
+            },
+            {
+              "id": "cr-7",
+              "name": "Chicken Schezwan Fried Rice",
+              "veg": false,
+              "price": 299
+            },
+            {
+              "id": "cr-8",
+              "name": "Singapore Chicken Fried Rice",
+              "veg": false,
+              "price": 329
+            },
+            {
+              "id": "cr-9",
+              "name": "Chicken Combination Rice",
+              "veg": false,
+              "price": 349
+            },
+            {
+              "id": "cr-10",
+              "name": "Chicken Manchurian Fried Rice (with gravy)",
+              "veg": false,
+              "price": 399
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "nameHi": "ड्रिंक्स",
+      "groups": [
+        {
+          "id": "mojito",
+          "name": "Mojito",
+          "items": [
+            {
+              "id": "mj-1",
+              "name": "Virgin Mojito",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "mj-2",
+              "name": "Dark Fantasy Mojito",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "mj-3",
+              "name": "Blue Lagoon Mojito",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "mj-4",
+              "name": "Spicy Mango Mojito",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "mj-5",
+              "name": "Chilli Guava Mojito",
+              "veg": true,
+              "price": 199
+            }
+          ]
+        },
+        {
+          "id": "shakes",
+          "name": "Shakes",
+          "addOns": [
+            {
+              "name": "Ice Cream",
+              "price": 55
+            }
+          ],
+          "items": [
+            {
+              "id": "sh-1",
+              "name": "Blueberry Shake",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "sh-2",
+              "name": "Strawberry Shake",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "sh-3",
+              "name": "Chocolate Shake",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "sh-4",
+              "name": "Oreo Shake",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "sh-5",
+              "name": "KitKat Shake",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "sh-6",
+              "name": "Hazelnut Shake",
+              "veg": true,
+              "price": 199
+            }
+          ]
+        },
+        {
+          "id": "cold-coffee",
+          "name": "Cold Coffee",
+          "addOns": [
+            {
+              "name": "Ice Cream",
+              "price": 55
+            }
+          ],
+          "items": [
+            {
+              "id": "cc-1",
+              "name": "Cold Coffee",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "cc-2",
+              "name": "French Vanilla Cold Coffee",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "cc-3",
+              "name": "Irish Cold Coffee",
+              "veg": true,
+              "price": 279
+            },
+            {
+              "id": "cc-4",
+              "name": "Hazelnut Cold Coffee",
+              "veg": true,
+              "price": 279
+            }
+          ]
+        },
+        {
+          "id": "hot-coffee",
+          "name": "Hot Coffee",
+          "items": [
+            {
+              "id": "hc-1",
+              "name": "Hot Chocolate",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "hc-2",
+              "name": "Cappuccino",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "hc-3",
+              "name": "Irish Latte",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "hc-4",
+              "name": "Hazelnut Coffee",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "hc-5",
+              "name": "Hot Mocha",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "hc-6",
+              "name": "Macchiato Coffee",
+              "veg": true,
+              "price": 229
+            }
+          ]
+        },
+        {
+          "id": "refreshment",
+          "name": "Refreshment",
+          "items": [
+            {
+              "id": "rf-1",
+              "name": "Special Tea",
+              "veg": true,
+              "price": 49
+            },
+            {
+              "id": "rf-2",
+              "name": "Buttermilk",
+              "veg": true,
+              "price": 79
+            },
+            {
+              "id": "rf-3",
+              "name": "Lassi",
+              "veg": true,
+              "price": 119
+            },
+            {
+              "id": "rf-4",
+              "name": "Thandai",
+              "veg": true,
+              "price": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "nameHi": "डेज़र्ट",
+      "groups": [
+        {
+          "id": "waffle",
+          "name": "Waffle",
+          "addOns": [
+            {
+              "name": "Ice Cream",
+              "price": 55
+            }
+          ],
+          "items": [
+            {
+              "id": "wf-1",
+              "name": "Blueberry Waffle",
+              "veg": true,
+              "price": 179
+            },
+            {
+              "id": "wf-2",
+              "name": "Cookies & Cream Waffle",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "wf-3",
+              "name": "Dutch Almond Waffle",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "wf-4",
+              "name": "Hazelnut Waffle",
+              "veg": true,
+              "price": 229
+            },
+            {
+              "id": "wf-5",
+              "name": "Belgian Chocolate Waffle",
+              "veg": true,
+              "price": 249
+            },
+            {
+              "id": "wf-6",
+              "name": "Red Velvet Waffle",
+              "veg": true,
+              "price": 259
+            }
+          ]
+        },
+        {
+          "id": "sweets",
+          "name": "Brownie, Cheesecake & More",
+          "items": [
+            {
+              "id": "sd-1",
+              "name": "Walnut Chocolate Brownie",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "sd-2",
+              "name": "Brownie with Ice Cream",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "sd-3",
+              "name": "Cheesecake Ice Cream",
+              "veg": true,
+              "price": 149
+            },
+            {
+              "id": "sd-4",
+              "name": "Cheesecake",
+              "veg": true,
+              "price": 199
+            },
+            {
+              "id": "sd-5",
+              "name": "Tiramisu",
+              "veg": true,
+              "price": 199
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "celebrate": {
+    "title": "Celebrate your special moments with us",
+    "text": "Host your birthday parties, kitty parties and get-togethers at our restaurant.",
+    "cta": "Enquire on WhatsApp"
+  }
+}
