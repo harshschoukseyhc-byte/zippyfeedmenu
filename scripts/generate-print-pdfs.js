@@ -6,7 +6,7 @@ const fs = require('fs');
 const CHROME_PATH = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 const PUBLIC_PRINT_DIR = path.join(__dirname, '../public/print');
 const ARTIFACTS_DIR = '/Users/harshchouksey/.gemini/antigravity/brain/77e692e2-1f45-45ec-8b77-e98703246708';
-const TARGET_URL = 'https://zippyfeed.in/m';
+const TARGET_URL = 'https://zippyfeedmenu.vercel.app/m';
 
 if (!fs.existsSync(PUBLIC_PRINT_DIR)) {
   fs.mkdirSync(PUBLIC_PRINT_DIR, { recursive: true });
